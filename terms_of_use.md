@@ -53,11 +53,11 @@ O Catira da Serra não analisou todos os sites vinculados ao seu site e não é 
 A inclusão de qualquer link não implica endosso por Catira da Serra do site. O uso de qualquer site vinculado é por conta e risco do
 usuário.
 
-## Modificações
+### Modificações
 
 O Catira da Serra pode revisar estes termos de serviço do aplicativo a qualquer momento, sem aviso prévio. Ao usar este aplicativo, 
 você concorda em ficar vinculado à versão atual desses termos de serviço.
 
-## Lei aplicável
+### Lei aplicável
 Estes termos e condições são regidos e interpretados de acordo com as leis do Catira da Serra e você se submete 
 irrevogavelmente à jurisdição exclusiva dos tribunais naquele estado ou localidade.
