@@ -8,9 +8,9 @@ pelas leis de direitos autorais e marcas comerciais aplicáveis.
 ## 2. Uso de Licença
 
 É concedida permissão para baixar temporariamente uma cópia dos materiais (informações ou software) no aplicativo Catira da Serra ,
-    apenas para visualização transitória pessoal e não comercial. <a href=https://privacidade.me/ target='_BLANK'>políticas
-        de privacidade</a> .....Esta é a concessão de uma licença, não uma transferência de título e, sob esta licença,
-    você não pode:
+apenas para visualização transitória pessoal e não comercial. [políticas de privacidade](privacy_policy.html) .Esta é a concessão de uma licença, 
+não uma transferência de título e, sob esta licença,
+você não pode:
 1. modificar ou copiar os materiais;
 2. usar os materiais para qualquer finalidade comercial ou para exibição pública (comercial ou não comercial);
 3. tentar descompilar ou fazer engenharia reversa de qualquer software contido no aplicativo Catira da Serra;
